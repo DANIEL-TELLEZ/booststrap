@@ -1,0 +1,86 @@
+
+body{
+	background: #EAF2F8   ;
+}
+
+.fondcon{
+	background:#F8F9F9 ;
+}
+
+header{
+	background: #5DADE2;
+	
+}
+
+.reso{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right:1%;
+}
+
+.resod{
+	float: right;
+	margin-top: 10%;
+	margin-right:10%;
+
+	margin-bottom: 0%;
+}
+
+#logo{
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+
+}
+
+@media only screen and (max-width: 770px) {
+    .imgrs {
+        
+        float: none;
+	margin-top:0;
+	margin-right:0;
+	margin-bottom: 0%;
+
+        
+
+    }
+}
+
+
+.negro{
+	background: #000000;
+}
+/*_________________________________________________________*/
+/*Navegacion*/
+
+.mrtopn{
+	
+	background: #F4D03F  ;
+	width: 100%;
+}
+
+.margbnt{
+	margin-top:0.5%;
+	margin-bottom:0.5%;
+	margin-left: 0.5%;
+	margin-right:0.5%;
+
+}
+
+a{
+	color: #000000;
+}
+
+#img1{
+	margin-top: 10%;
+}
+
+#listado{
+margin-top: 1px;
+margin-bottom: 1px;
+}
+
+#buscador{
+	margin-top: 10%;
+}
